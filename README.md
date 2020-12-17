@@ -10,6 +10,7 @@
 <li> BubbleView
 <li> SuperNova-Emoji
 
-## Скриншоты
-
+## Скриншот
+<br>
+<img src="https://user-images.githubusercontent.com/63846369/102493682-96839a80-4084-11eb-97da-9cf11c29d7f2.png" width="400">
 
